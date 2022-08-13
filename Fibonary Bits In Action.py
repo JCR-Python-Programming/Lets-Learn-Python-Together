@@ -30,7 +30,6 @@ fib=[num1,num2]
 
 pause=1
 
-input()
 while True:
     os.system('cls')
     num3=num1+num2
