@@ -19,8 +19,11 @@ yellow='\x1b[33m'
 purple='\x1b[35m'
 white='\x1b[37m'
 
-title_text=f'fibonary bits in action! 2'.title(),'fibonacci natural number sequence'.title()
-text=(' binary digits: ',' octal digits: ',' hexadecimal digits: ',' decimal digits:',' fibonacci digits: '.title())
+title_text=f'fibonary bits in action! 2'.title(),'fibonacci natural \
+number sequence'.title()
+
+text=(' binary digits: ',' octal digits: ',' hexadecimal digits: ',' \
+decimal digits:',' fibonacci digits: '.title())
 
 lb='\n';lbb='\n\n';elb=' =\n';eq=' = ';sp=' '
 
