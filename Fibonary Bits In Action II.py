@@ -1,6 +1,6 @@
 # This is for advanced Python programmers, who want something a little bit saltier.
 # Create this Fibonary Bits In Action! Python program using a single print() function.
-# Use the backslash '\' to create line breaks within the print() function.
+# Use the backslash '\' to create line breaks within the text values.
 
 # Type and execute/run this Python program example below and see what happens.
 
