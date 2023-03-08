@@ -1,6 +1,6 @@
 # Let's-Learn-Python-Together
 
-![image](https://user-images.githubusercontent.com/34896540/223650748-b027aa70-b1be-4902-8772-06f20943afc6.png)
+![image](https://user-images.githubusercontent.com/34896540/223653543-f49dc6af-a0b4-4fa6-8646-1a384483692b.png)
 
 Learn Python Programming with me.
 
