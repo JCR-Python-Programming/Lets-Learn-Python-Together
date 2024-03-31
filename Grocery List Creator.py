@@ -1,12 +1,14 @@
 '''
 Grocery List Creator Python program
 
-Created by Joseph C. Richardson
+Created by Joseph C. Richardson, GitHub.com
 
 This is a full functional grocery list Python program example to add to my Python book.
 Feel free to copy this Python program example if you like. See what you can do with it.
 Please enjoy.
 '''
+# HIGHLIGHT AND COPY CODE, THEN PASTE INTO YOUR PREFERABLE PYTHON APP/IDLE
+
 import os
 
 text_colours=(
@@ -41,7 +43,7 @@ f'{double_line_break}{indent}Please type your grocery list items: ', # index 2
 
 f'{double_line_break}{indent}Please type your grocery list item price: $', # index 3
 
-f'{double_line_break}{indent}{text_colours[5]}You have', # indext 4
+f'{double_line_break}{indent}{text_colours[5]}You have', # index 4
 
 'items in your grocery list.', # index 5
 
