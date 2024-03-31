@@ -1,6 +1,6 @@
 # This is for advanced Python programmers, who want something a little bit saltier.
 # Create this Fibonary Bits In Action! Python program using a single print() function.
-# Use the backslash '\' to create line breaks within the text values.
+# Use the backslash '\' to create line breaks within the print() function.
 
 # Type and execute/run this Python program example below and see what happens.
 
@@ -19,11 +19,8 @@ yellow='\x1b[33m'
 purple='\x1b[35m'
 white='\x1b[37m'
 
-title_text=f'fibonary bits in action! 2'.title(),'fibonacci natural \
-number sequence'.title()
-
-text=(' binary digits: ',' octal digits: ',' hexadecimal digits: ',' \
-decimal digits:',' fibonacci digits: '.title())
+title_text=f'fibonary bits in action! 2'.title(),'fibonacci natural number sequence'.title()
+text=(' binary digits: ',' octal digits: ',' hexadecimal digits: ',' decimal digits:',' fibonacci digits: '.title())
 
 lb='\n';lbb='\n\n';elb=' =\n';eq=' = ';sp=' '
 
